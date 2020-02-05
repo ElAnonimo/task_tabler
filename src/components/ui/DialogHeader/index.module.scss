@@ -1,0 +1,21 @@
+.wrapper {
+  border-radius: 4px;
+  box-shadow: 0 8px 32px rgba(#000000, 0.2);
+}
+.head {
+  height: 48px;
+  background-color: #0f191e;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  border-radius: 4px 4px 0 0;
+}
+.title {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(#ffffff, 0.4);
+  text-transform: uppercase;
+}
